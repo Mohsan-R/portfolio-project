@@ -17,8 +17,4 @@ Technologies Used:
 Swiper.js for interactive sliders.
 GSAP for animations and scroll effects.
 HTML5, CSS3, and JavaScript for front-end development.
-Live Demo:
-[Link to live demo (if applicable)]
-
-Feel free to explore the code and suggest improvements!
 
